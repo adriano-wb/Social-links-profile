@@ -146,8 +146,8 @@ body {
 
 .attribution a {
 	color: var(--green);
-	font-size: 11px; 
-	text-decoration: none;
+	font-size: 11px;
+	text-decoration: underline;
 	border-bottom: 1px solid transparent;
 }
 
