@@ -1,0 +1,17 @@
+.profile {
+	margin-top: 11.9%;
+	padding-bottom: 22px;
+	width: 383px;
+}
+
+.profile__photo {
+	margin-top: 38px;
+}
+
+.profile__name {
+	margin-top: 29px;
+}
+
+.profile-midias {
+	padding: 0 40px;
+}
